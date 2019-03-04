@@ -1,10 +1,10 @@
 # Distracted-Driver-Detection
-CNN model that detects distracted drivers on the road
+# CNN model that detects distracted drivers on the road
 
-This is a comptetition that I saw in Kaggle. You cand find the competition here:
+This is a comptetition that I saw in Kaggle: "State Farm Distracted Driver Detection". You cand find more information here:
 https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
-I decided to create a CNN model in PyTorch to detect 10 different types of distracted drivers. The categories are:
+I decided to use the same dataset and create a CNN model in PyTorch to detect 10 different types of distracted drivers. The 10 categories are:
 
 
    -c0: safe driving
