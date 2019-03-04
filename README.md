@@ -19,5 +19,8 @@ I decided to create a CNN model in PyTorch to detect 10 different types of distr
    -c9: talking to passenger
    
    If you want to see the results from this experiement, check out the notebook:
+   https://github.com/viritaromero/Distracted-Driver-Detection/blob/master/Detecting_Driver_Distraction_pynb.ipynb
+   
+   
    
    
